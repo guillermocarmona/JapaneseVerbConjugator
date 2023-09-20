@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/JapaneseVerbConjugator/static/css/main.5a3ad598.css",
-    "main.js": "/JapaneseVerbConjugator/static/js/main.d730e97c.js",
+    "main.js": "/JapaneseVerbConjugator/static/js/main.72cc1fd0.js",
     "static/js/787.6e28d6ac.chunk.js": "/JapaneseVerbConjugator/static/js/787.6e28d6ac.chunk.js",
     "index.html": "/JapaneseVerbConjugator/index.html",
     "main.5a3ad598.css.map": "/JapaneseVerbConjugator/static/css/main.5a3ad598.css.map",
-    "main.d730e97c.js.map": "/JapaneseVerbConjugator/static/js/main.d730e97c.js.map",
+    "main.72cc1fd0.js.map": "/JapaneseVerbConjugator/static/js/main.72cc1fd0.js.map",
     "787.6e28d6ac.chunk.js.map": "/JapaneseVerbConjugator/static/js/787.6e28d6ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a3ad598.css",
-    "static/js/main.d730e97c.js"
+    "static/js/main.72cc1fd0.js"
   ]
 }
